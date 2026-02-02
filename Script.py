@@ -224,7 +224,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/+siM92kB09SAyYzhl">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/HAMovierequest_bot">[ ᴅʀᴇᴀᴍxʙᴏᴛᴢ ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+siM92kB09SAyYzhl">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/HAMovierequest_bot">[ HAMOVIES ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
